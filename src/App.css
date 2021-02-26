@@ -1,0 +1,4 @@
+.App {min-height: 90vh;background: #ccc;}
+.App .container{background: #4d4d4d;border-radius: 10px;}
+.App h1{color: dimgray;}
+.vertical-center { min-height: 100%;  /* Fallback for browsers do NOT support vh unit */ min-height: 100vh; /* These two lines are counted as one :-)       */ display: flex; align-items: center; }
